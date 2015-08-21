@@ -1,7 +1,5 @@
 SINGLE_SEGMENT = 15
 DIVIDER = 20
-
-
 MILLIAMPS = {
     ':': DIVIDER,
     '1': SINGLE_SEGMENT * 2,
