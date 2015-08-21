@@ -24,7 +24,9 @@ def main():
     for name in all_names:
         if differences[name] < best_diff:
             best_diff = differences[name]
-    print(' '.join([name for name in all_names if differences[name] == best_diff]))
+    print(' '.join(
+        [name for name in all_names if differences[name] == best_diff]
+    ))
 
 if __name__ == '__main__':
     main()
