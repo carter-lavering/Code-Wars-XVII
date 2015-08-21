@@ -6,7 +6,7 @@ http://www.hpcodewars.org/past/cw17/problems/2014HPCodeWarsFinalProblemsPost.pdf
 STATUS ("!" = Failed, "X" = Completed)
 Problem 01 [!]
 Problem 02 [X]
-Problem 03 [ ]
+Problem 03 [X]
 Problem 04 [ ]
 Problem 05 [ ]
 Problem 06 [ ]
