@@ -1,4 +1,4 @@
-This folder consists of me coding the answers for HP CodeWars XVII.
+This folder consists of me coding the answers for HP CodeWars XVII 2014.
 
 The original text file can be seen at
 http://www.hpcodewars.org/past/cw17/problems/2014HPCodeWarsFinalProblemsPost.pdf.
