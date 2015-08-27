@@ -7,11 +7,7 @@ def get_value(char):
 
 
 def encode(string):
-    indexes_by_char = {}
-    length = len(string)
-    current_index = get_value(string[0])
-    for char in string[1:]:
-        pass
+    pass
 
 
 def main():
