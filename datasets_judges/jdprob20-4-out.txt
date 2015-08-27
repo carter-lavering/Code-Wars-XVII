@@ -1,0 +1,4 @@
+A B C
+C A B
+B C A
+JUDGE NOTE: This problem is similar to student data #1.

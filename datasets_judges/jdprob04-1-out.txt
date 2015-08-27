@@ -1,0 +1,4 @@
+John
+
+JUDGE NOTE: The student sample data always has the candy number between
+guesses.  This data has the candy number less than all guesses.

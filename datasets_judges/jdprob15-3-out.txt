@@ -1,0 +1,7 @@
+1 Apple
+3 Banana
+4 Cherry
+5 Durian
+6 Fig
+8 Grape
+9 Lychee

@@ -1,0 +1,6 @@
+This Team Solved It
+
+JUDGE NOTE: Same data as student data 3, with the 4 tying names replaced
+with the 4 words of the sentence above.  They're supposed to be printed
+in the order they appear in the input, so the above sentence should be
+made.

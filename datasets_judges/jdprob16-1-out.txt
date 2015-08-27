@@ -1,0 +1,13 @@
+1 N RUN
+2 S RUSH
+3 E SAUNTER
+4 I SKIP
+5 W CRAWL
+6 B AMBLE
+7 S SLIDE
+8 J JOG
+9 C CLIMB
+
+JUDGE NOTE: This is the same data as the student data 1, but the digits
+have been entered in reverse order.  (Student data 1-9 are judge data 9-1).
+So this list has the same letters and words in the opposite order.

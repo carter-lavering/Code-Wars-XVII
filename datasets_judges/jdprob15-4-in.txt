@@ -1,0 +1,6 @@
+4
+  G  F  P  G 25
+  A  G  C  O 16
+  P  F  G  G 25
+  O  D  A  A 12
+ 22 19 17 20

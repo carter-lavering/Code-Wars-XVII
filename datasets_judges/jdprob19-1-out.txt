@@ -1,0 +1,5 @@
+I like my Math with a slice of Pi.
+.iP fo ecils a htiw htaM ym ekil I
+
+JUDGE NOTE: This problem is identical to Student Dataset 1, swapped right-to-left.
+For all problems, the two lines may be printed in either order.

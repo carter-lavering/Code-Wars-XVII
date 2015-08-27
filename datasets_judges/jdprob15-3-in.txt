@@ -1,0 +1,9 @@
+7
+  D  D  L  A  D  A  L 35
+  G  F  F  D  D  G  A 39
+  F  G  L  B  C  L  C 43
+  D  B  A  B  A  L  B 25
+  A  A  G  G  F  B  L 36
+  D  B  L  C  G  G  D 42
+  D  F  F  D  L  C  F 41
+ 35 32 48 29 38 42 37

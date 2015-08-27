@@ -1,0 +1,8 @@
+1
+1667
+26010
+898019
+13041
+
+JUDGE NOTE: The base numbers in the input are the same as the student data,
+but the remainders are all different.

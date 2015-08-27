@@ -1,0 +1,6 @@
+99 998
+15 401
+3 224
+30 555
+
+JUDGE NOTE: This is the same as student input #2, in reverse order.

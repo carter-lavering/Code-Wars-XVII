@@ -1,0 +1,7 @@
+1 Apple
+2 Cherry
+3 Durian
+5 Fig
+6 Grape
+7 Orange
+8 Pear

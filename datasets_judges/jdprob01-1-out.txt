@@ -1,0 +1,6 @@
+100 1003
+1000 3163
+2000 4473
+3000 5478
+
+JUDGE NOTE: Second values are expected to be +/- 1 from judge data.

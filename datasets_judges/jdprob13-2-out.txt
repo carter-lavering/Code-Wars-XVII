@@ -1,0 +1,8 @@
+1: ACDER
+20: ARCED
+30: CARED
+98: RACED
+120: REDCA
+
+JUDGE NOTE: This problem set uses exactly 5 unique letters, 
+so entries 1 and 120 should be the first and last alphabetically of those 5.

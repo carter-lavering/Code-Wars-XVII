@@ -1,0 +1,10 @@
+A . . C B
+C A . B .
+B C A . .
+. . B A C
+. B C . A
+JUDGE NOTE: This is unlike any student data, unique to judges.
+My (Ken's) program prints the same result twice, due to looping on the
+two empty positions in the first line.  They're only expected to find the
+solution - it doesn't matter if they print it twice.  It does matter if
+they print the wrong one.

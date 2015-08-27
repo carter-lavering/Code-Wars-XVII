@@ -1,0 +1,5 @@
+A . C B
+C A B .
+B C . A
+. B A C
+JUDGE NOTE: This is the same as student input #2, rotated clockwise 90 degrees.

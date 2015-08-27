@@ -1,0 +1,7 @@
+4
+A A X X
+X X
+X X
+B X
+B X
+X X X C

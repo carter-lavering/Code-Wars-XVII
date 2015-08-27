@@ -1,0 +1,8 @@
+2 Banana
+3 Apple
+4 Cherry
+
+JUDGE NOTE: This is the only dataset where the numerical order is
+not the alphabetical order, just to check their program isn't dependent
+upon alpha order being numerical order.  All other datasets are
+in increasing numerical AND alphabetical order for ease of verifying.

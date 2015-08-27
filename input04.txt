@@ -1,6 +1,0 @@
-480
-4
-90 John
-400 Melinda
-560 Chuck
-173 Miika

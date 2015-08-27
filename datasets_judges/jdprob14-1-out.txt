@@ -1,0 +1,6 @@
+199
+89
+7199
+
+JUDGE NOTE: These examples all use 2 weights, and the answer should always
+be: (M-1)(N-1)-1

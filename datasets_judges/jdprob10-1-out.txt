@@ -1,0 +1,7 @@
+ABCDE FGHIJ KLMNO PQRST UVWXY Z
+123456789 Numbers!
+De-coding (punctuation) in. a& sentence!
+
+JUDGE NOTE: These three lines show putting an alphabet back in order,
+numbers in order, and managing punctuation amidst letters.
+Spacing is important, and part of the problem.

@@ -1,0 +1,8 @@
+##########
+#c.d#S.Fg#
+#.#...##.#
+#b.e.a..f#
+##########
+JUDGE NOTE: This is the same as student data #1, swapped top-to-bottom.
+For all these problems, the main intent is to find the "S" and "F".  The
+other letters are really only breadcrumbs to help find logic errors.

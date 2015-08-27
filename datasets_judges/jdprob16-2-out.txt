@@ -1,0 +1,25 @@
+Initial Grid:
+MA7CHOOHRE
+BMIL2OHSI8
+LBPIKSOAKI
+CLKMEA3DER
+SELBMUT9CA
+TVALL1PTRC
+4A5EETORAE
+PEERCEHOWO
+LWASTR6LLP
+
+1 N SAUNTER
+2 I HIKE
+3 N MEANDER
+4 E STEP
+5 W WALK
+6 O STROLL
+7 R MARCH
+8 D RIDE
+9 S STUMBLE
+
+JUDGE NOTE: Only the list of words is important.  I include the grid for reference
+in case their answer doesn't work.  This grid is similar, but not identical to student
+data #2.  And the numbers have been moved around.  See that the 9 letters spell out
+"NINE WORDS" in order.
