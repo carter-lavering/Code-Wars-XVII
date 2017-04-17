@@ -4,7 +4,7 @@ The original text file can be seen at
 http://www.hpcodewars.org/past/cw17/problems/2014HPCodeWarsFinalProblemsPost.pdf.
 
 STATUS ("!" = Failed, "X" = Completed)
-Problem 01 [!]
+Problem 01 [X]
 Problem 02 [X]
 Problem 03 [X]
 Problem 04 [X]

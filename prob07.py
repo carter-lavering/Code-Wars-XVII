@@ -7,7 +7,7 @@ ACROPHONIC = [
     (100, 'H'),
     (50, 'PD'),
     (10, 'D'),
-    (5, 'PI'),
+    (5, 'P'),
     (1, 'I')
 ]
 
@@ -43,9 +43,10 @@ def convert_to_acro(n):
 
 def convert_to_dec(string):
     # Assert every character in the string is in at least one acrophonic pair
-    assert all([any([
-        char in acro_str for acro_str in [pair[1] for pair in ACROPHONIC]
-    ]) for char in string])
+    assert all(
+        [any(
+            [char in acro_str for acro_str in [pair[1] for pair in ACROPHONIC]]
+        ) for char in string])
     output = 0
     i = 0
     while len(string) > 0:
